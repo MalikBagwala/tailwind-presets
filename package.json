@@ -1,5 +1,5 @@
 {
-  "name": "tailwind-presets",
+  "name": "@devmalik/tailwind-presets",
   "version": "1.0.0",
   "description": "A reasonable set of tailwindcss themes",
   "main": "index.js",
@@ -8,5 +8,8 @@
   "license": "MIT",
   "dependencies": {
     "tailwindcss": "^1.9.6"
+  },
+  "devDependencies": {
+    "np": "^7.0.0"
   }
 }
